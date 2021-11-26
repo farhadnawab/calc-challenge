@@ -1,24 +1,35 @@
-# calc-challenge
+# Calculator Challenge (Vuejs - Tailwind CSS)
 
-## Project setup
+## How to setup and run
 ```
-npm install
-```
+Run following commands in your terminal.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+- git clone https://github.com/farhadnawab/calc-challenge.git
+- npm install (to install packages)
+- npm serve (to run the project)
 ```
 
-### Lints and fixes files
+### How long did you spend creating the application?
 ```
-npm run lint
+I completed it within 4 hours
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Any assumptions made?
+```
+No
+```
+
+### Any queries that need resolving?
+```
+No, everything's done.
+```
+
+### What part of the application are you most proud of (if any)?
+```
+Functionality, design, code quality.
+```
+
+### Any improvements you would make?
+```
+design imporvements if I would have more time.
+```
